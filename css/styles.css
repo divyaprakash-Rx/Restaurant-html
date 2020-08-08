@@ -44,3 +44,6 @@ body{
     left: 0;
     min-height: 300px;
 }
+.modal-content {
+    color: #000;
+}
